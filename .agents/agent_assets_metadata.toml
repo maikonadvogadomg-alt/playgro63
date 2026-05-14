@@ -1,0 +1,25 @@
+uploads = []
+
+[[generated]]
+id = "-5OvWg6pUYbaX3WtMz1gt"
+uri = "file://artifacts/mobile/assets/images/icon.png"
+type = "image"
+title = "generated_image"
+
+[[outputs]]
+id = "P6q0uFSq_33IJl5-bgnEw"
+uri = "file://exports/sk-juridico-EAS.tar.gz"
+type = "unspecified"
+title = "SK Jurídico — EAS (Expo/React Native + APK)"
+
+[[outputs]]
+id = "C9J-4mePzowEzrnbKZhJE"
+uri = "file://exports/sk-juridico-GIT.tar.gz"
+type = "unspecified"
+title = "SK Jurídico — GIT (código completo + histórico)"
+
+[[outputs]]
+id = "kNgQhoj7DhxvshGUheZIK"
+uri = "file://exports/sk-juridico-Capacitor.tar.gz"
+type = "unspecified"
+title = "SK Jurídico — Capacitor (config + fonte)"
